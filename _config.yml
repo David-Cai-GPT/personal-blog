@@ -101,13 +101,12 @@ theme: anatole-core
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: cos
-  appId: 1257913054
-  secretId: AKIDM0OVMxIMAiz0jCOKzOYT9ZjcFbhW4LM8
-  secretKey: XooY1CD5i49yWnoY2FCsHRLyLQEl34oH
-  bucket: serverless-page-bucket-vzueuq1q-1257913054
-  region: ap-shanghai
+# deploy:
+#   type: cos
+#   appId: 1257913054
+
+#   bucket: serverless-page-bucket-vzueuq1q-1257913054
+#   region: ap-shanghai
  #github: git@github.com:David-banana/David-banana.github.io.git
  #https://e.coding.net/Davidlalala/DavidBlog/Davidpersonblog.git
   
